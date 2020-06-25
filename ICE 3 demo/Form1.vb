@@ -1,3 +1,5 @@
-﻿Public Class Form1
+﻿Option Strict On
+
+Public Class Form1
 
 End Class
